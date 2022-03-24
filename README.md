@@ -4,7 +4,7 @@ my JavaScript HomeWork
 
 <table border="1">
     <tr>
-        <th>Application</th>
+        <th>Applications</th>
         <th>Demo</th>
     </tr>
     <tr>
