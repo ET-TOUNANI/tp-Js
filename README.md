@@ -2,7 +2,7 @@
 
 my JavaScript HomeWork
 
-<table border="1">
+<table border="1" style="text-align:center;">
     <tr>
         <th>Applications</th>
         <th>Demo</th>
