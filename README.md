@@ -20,5 +20,9 @@ my JavaScript HomeWork
         <td>Histograme</td>
         <td><a href="">voir</a></td>
     </tr>
+     <tr>
+        <td>Form Validation</td>
+        <td><a href="">voir</a></td>
+    </tr>
 </table>
 </center>
