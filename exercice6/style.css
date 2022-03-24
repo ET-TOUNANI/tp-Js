@@ -1,0 +1,11 @@
+.error{
+    border: 1px solid red;
+
+}
+small{
+    display: none;
+    color: red;
+}
+.good{
+    border: 1px solid green;
+}
