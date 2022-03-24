@@ -10,7 +10,7 @@ my JavaScript HomeWork
     </tr>
     <tr>
         <td>generate table</td>
-        <td><a href="">voir</a></td>
+        <td><a href="https://generatetable.vercel.app/">voir</a></td>
     </tr>
     <tr>
         <td>calculatrice</td>
