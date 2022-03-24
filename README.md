@@ -2,7 +2,8 @@
 
 my JavaScript HomeWork
 
-<table border="1" style="text-align:center;">
+<center>
+<table border="1" >
     <tr>
         <th>Applications</th>
         <th>Demo</th>
@@ -20,3 +21,4 @@ my JavaScript HomeWork
         <td><a href="">voir</a></td>
     </tr>
 </table>
+</center>
