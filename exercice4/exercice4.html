@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        pos=0;
+        function textDefiler(){
+            text = "I am Abderrahmane ";
+            text=text.substring(pos,text.length)+text.substring(0,pos);
+            document.title=text;
+            pos++;  
+            if(pos==text.length) pos=0;
+        }
+        window.setInterval("textDefiler()",100);
+    </script>
+    <title>ENSET</title>
+</head>
+<body onload="textDefiler()">
+    <h1>Bonjour dans l'exercice 4 </h1>
+    <p>regarde dans la barre d'état pour comprandre l'objectif de l'exercice </p>
+
+</body>
+</html>
