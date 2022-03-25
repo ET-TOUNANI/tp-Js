@@ -46,7 +46,7 @@ function validerDate(){
 }
 function valider(){
     if(allbien[0]==true && allbien[1]==true){
-        form.submit();
+        //form.submit(); si vous vollez envoyer le formulaire
         swal("good!", "Form Envoyer", "success");
     }
         
