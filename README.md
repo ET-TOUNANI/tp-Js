@@ -14,7 +14,7 @@ my JavaScript HomeWork
     </tr>
     <tr>
         <td>calculatrice</td>
-        <td><a href="https://tp-js-et-tounani.vercel.app/">voir</a></td>
+        <td><a href="https://tp-js-et-tounani.vercel.app/exercice3">voir</a></td>
     </tr>
     <tr>
         <td>Histograme</td>
